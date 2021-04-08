@@ -4,6 +4,6 @@
 
 ```kts
 repositories {
-    maven("https://ajoberstar.github.io/bintray-backup/")
+    maven("https://detachhead.github.io/maven")
 }
 ```
