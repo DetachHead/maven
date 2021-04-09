@@ -1,0 +1,47 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../url-builder-jvm/1.0.8-SNAPSHOT/url-builder-jvm-1.0.8-SNAPSHOT.module",
+    "group": "io.github.detachhead",
+    "module": "url-builder-jvm",
+    "version": "1.0.8-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8",
+      "buildId": "alfy2wuqindzresklxkwpncury"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.30-RC"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "url-builder-metadata-1.0.8-SNAPSHOT.jar",
+          "url": "url-builder-metadata-1.0.8-SNAPSHOT.jar",
+          "size": 4494,
+          "sha512": "3b319710fb4c29203f5f26800a448496fd003faf408e23dba026b138ce66d80f9d5451ecd2923b95e2ab26d7f2ee920a2e47a1a7548c506ac5f226c8fbf19018",
+          "sha256": "94682ad78bee7e7368d36007eb5d053127e6acb424c29fc3a16585b2570eb536",
+          "sha1": "8c9d800b721e6dfb37e16b658bcdde13bd1e1be6",
+          "md5": "9b2e2e8d843512de7b2bf32a8c527fde"
+        }
+      ]
+    }
+  ]
+}
