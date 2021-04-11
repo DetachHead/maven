@@ -10,13 +10,12 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.8",
-      "buildId": "76al7ezkmngljife2oekmeurpq"
+      "version": "7.0"
     }
   },
   "variants": [
     {
-      "name": "metadataApiElements-published",
+      "name": "metadataApiElements",
       "attributes": {
         "org.gradle.usage": "kotlin-api",
         "org.jetbrains.kotlin.platform.type": "common"
@@ -26,7 +25,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-common",
           "version": {
-            "requires": "1.4.30-RC"
+            "requires": "1.5.0-M2"
           }
         }
       ],
@@ -34,11 +33,11 @@
         {
           "name": "url-builder-metadata-1.0.7-SNAPSHOT.jar",
           "url": "url-builder-1.0.7-SNAPSHOT.jar",
-          "size": 4494,
-          "sha512": "3eb0825397dc53847687e7b77b6c62dcd40f91b6d9fd3ab611a3be59aa6de044a41d5f50f5b5994cefeba8e99fa1725ac8309f77572a2a83e1f92fd31dc68030",
-          "sha256": "dd8f222087ff88ec7a442e78d64e28e0cf3ea10621fda9a8bff3a9064a460c94",
-          "sha1": "f2194d56498a0175306e9a5237e7c163caead1fa",
-          "md5": "d2b60db51ce1fc3532e50ae83894d2a5"
+          "size": 4492,
+          "sha512": "cc082e6e0268dfc779d83a08391891b88036fc73948b1ec9f232407d2b928b8eb8291138cebcf1813771fc2d6f937d6d3a6362d7b474fd7c6bdd844cb354615c",
+          "sha256": "aec966fc3aab4664844b7cb9b0d47b5915745c77d347fbaaca828bd6b8a360dd",
+          "sha1": "d30402d2b992d94cf791b6029e079a901932d69a",
+          "md5": "65f6a59107991ab4b90970f96339d255"
         }
       ]
     },
@@ -46,7 +45,7 @@
       "name": "jsApiElements-published",
       "attributes": {
         "org.gradle.usage": "kotlin-api",
-        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
         "org.jetbrains.kotlin.platform.type": "js"
       },
       "available-at": {
@@ -60,7 +59,7 @@
       "name": "jsRuntimeElements-published",
       "attributes": {
         "org.gradle.usage": "kotlin-runtime",
-        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
         "org.jetbrains.kotlin.platform.type": "js"
       },
       "available-at": {

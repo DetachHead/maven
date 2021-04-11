@@ -11,8 +11,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "6.8",
-      "buildId": "76al7ezkmngljife2oekmeurpq"
+      "version": "7.0"
     }
   },
   "variants": [
@@ -26,16 +25,16 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.30-RC"
+            "requires": "1.5.0-M2"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-common",
           "version": {
-            "requires": "1.4.30-RC"
+            "requires": "1.5.0-M2"
           }
         }
       ],
@@ -43,11 +42,11 @@
         {
           "name": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
           "url": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
-          "size": 27725,
-          "sha512": "96e40be8bfb82e4720e54453f7b904765f87b42a369bd00d65faec76e8d9bf06f0a32a189be7cf48f2c226dacdffb9c43b441cbff3add09de2bf2284eb517b05",
-          "sha256": "be867ae5cdaed759dfb4d78c02564d71d263ca1e1a2a0041e1624302fee23193",
-          "sha1": "a7786450cd81c5e2c94426c8fd7534169b8acb0f",
-          "md5": "d2a2fd3cc96a26c9245a91938de4ac2e"
+          "size": 27571,
+          "sha512": "8dc081d39ea71ffdff9dd1a77e93fc1391454dd86559b660e3720128e4001a436a0359358dc52569a1c5c71994e5320029c7a86ed234c95f7663038c65ce28f3",
+          "sha256": "e9d9e24bec337bd60f53df3782915c048332c18763c266bf89998941d7f96745",
+          "sha1": "ae6955f7c9a8d320f0759c714385c4a4de62fc1f",
+          "md5": "e9899ec435772ed59314c896a7211a14"
         }
       ]
     },
@@ -61,16 +60,16 @@
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
-          "module": "kotlin-stdlib",
+          "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.4.30-RC"
+            "requires": "1.5.0-M2"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-common",
           "version": {
-            "requires": "1.4.30-RC"
+            "requires": "1.5.0-M2"
           }
         }
       ],
@@ -78,26 +77,13 @@
         {
           "name": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
           "url": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
-          "size": 27725,
-          "sha512": "96e40be8bfb82e4720e54453f7b904765f87b42a369bd00d65faec76e8d9bf06f0a32a189be7cf48f2c226dacdffb9c43b441cbff3add09de2bf2284eb517b05",
-          "sha256": "be867ae5cdaed759dfb4d78c02564d71d263ca1e1a2a0041e1624302fee23193",
-          "sha1": "a7786450cd81c5e2c94426c8fd7534169b8acb0f",
-          "md5": "d2a2fd3cc96a26c9245a91938de4ac2e"
+          "size": 27571,
+          "sha512": "8dc081d39ea71ffdff9dd1a77e93fc1391454dd86559b660e3720128e4001a436a0359358dc52569a1c5c71994e5320029c7a86ed234c95f7663038c65ce28f3",
+          "sha256": "e9d9e24bec337bd60f53df3782915c048332c18763c266bf89998941d7f96745",
+          "sha1": "ae6955f7c9a8d320f0759c714385c4a4de62fc1f",
+          "md5": "e9899ec435772ed59314c896a7211a14"
         }
       ]
-    },
-    {
-      "name": "metadataApiElements-published",
-      "attributes": {
-        "org.gradle.usage": "kotlin-api",
-        "org.jetbrains.kotlin.platform.type": "common"
-      },
-      "available-at": {
-        "url": "../../url-builder-metadata/1.0.7-SNAPSHOT/url-builder-metadata-1.0.7-SNAPSHOT.module",
-        "group": "io.github.detachhead",
-        "module": "url-builder-metadata",
-        "version": "1.0.7-SNAPSHOT"
-      }
     }
   ]
 }
