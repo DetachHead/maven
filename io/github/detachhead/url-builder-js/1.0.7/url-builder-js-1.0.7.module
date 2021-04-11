@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../url-builder/1.0.7/url-builder-1.0.7.module",
+    "group": "io.github.detachhead",
+    "module": "url-builder",
+    "version": "1.0.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "jsApiElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.5.0-M2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.0-M2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "url-builder-js-1.0.7.jar",
+          "url": "url-builder-js-1.0.7.jar",
+          "size": 17737,
+          "sha512": "ebc211d917db9267a80749331c92b1cfa15be06beff5f16e3a925164de77cb91fcfb347312c14070b1637b79d6adbf5c9aba00a3f14671f46e39a8268d6d33ac",
+          "sha256": "87159e6fc42d918fbf9459d27db9244d3a5372d1af8b3e0d89a9bc11b4740458",
+          "sha1": "934d351a1bf4b94ae6e22ddb17a17e54906c399d",
+          "md5": "b2b43bd3c10c670f64720412cd8ab7fb"
+        }
+      ]
+    },
+    {
+      "name": "jsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "legacy",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-js",
+          "version": {
+            "requires": "1.5.0-M2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.0-M2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "url-builder-js-1.0.7.jar",
+          "url": "url-builder-js-1.0.7.jar",
+          "size": 17737,
+          "sha512": "ebc211d917db9267a80749331c92b1cfa15be06beff5f16e3a925164de77cb91fcfb347312c14070b1637b79d6adbf5c9aba00a3f14671f46e39a8268d6d33ac",
+          "sha256": "87159e6fc42d918fbf9459d27db9244d3a5372d1af8b3e0d89a9bc11b4740458",
+          "sha1": "934d351a1bf4b94ae6e22ddb17a17e54906c399d",
+          "md5": "b2b43bd3c10c670f64720412cd8ab7fb"
+        }
+      ]
+    }
+  ]
+}
