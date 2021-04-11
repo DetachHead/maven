@@ -42,11 +42,11 @@
         {
           "name": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
           "url": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
-          "size": 27564,
-          "sha512": "df4d01bded8555702982c93513c90ef3fc78f05c94de75a91c12c0e1a30ded39bbfd0172d058eddf6e7b8d7008750741ee2257194286cc6c5675fddffefd1d8d",
-          "sha256": "e9169751996e7a54f89a6a5b72177d264167caaefd266f0d49ada69587d99183",
-          "sha1": "502c32fa0ea09cfdf2197fc36435fcb9238f0f8f",
-          "md5": "0fbcabb107e195dc6c7c3e93041adfad"
+          "size": 27562,
+          "sha512": "4d1c7803abb22b474ec694260016ed53fd696f5c51dcc7235ac5349b776f9b52dd250343e26009d8dc8a9944a269c361889b88e0e6fb2d8c8ce0eade260c0d5f",
+          "sha256": "ed2844638f7197e2b93e8018782b0c9c01852bf434dfab9b14bf0140266eb14d",
+          "sha1": "83098b532154a2fb13e1fbf5cd8b8429b0a8600e",
+          "md5": "240a471f382e818b45491a16b2746400"
         }
       ]
     },
@@ -77,11 +77,11 @@
         {
           "name": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
           "url": "url-builder-jvm-1.0.7-SNAPSHOT.jar",
-          "size": 27564,
-          "sha512": "df4d01bded8555702982c93513c90ef3fc78f05c94de75a91c12c0e1a30ded39bbfd0172d058eddf6e7b8d7008750741ee2257194286cc6c5675fddffefd1d8d",
-          "sha256": "e9169751996e7a54f89a6a5b72177d264167caaefd266f0d49ada69587d99183",
-          "sha1": "502c32fa0ea09cfdf2197fc36435fcb9238f0f8f",
-          "md5": "0fbcabb107e195dc6c7c3e93041adfad"
+          "size": 27562,
+          "sha512": "4d1c7803abb22b474ec694260016ed53fd696f5c51dcc7235ac5349b776f9b52dd250343e26009d8dc8a9944a269c361889b88e0e6fb2d8c8ce0eade260c0d5f",
+          "sha256": "ed2844638f7197e2b93e8018782b0c9c01852bf434dfab9b14bf0140266eb14d",
+          "sha1": "83098b532154a2fb13e1fbf5cd8b8429b0a8600e",
+          "md5": "240a471f382e818b45491a16b2746400"
         }
       ]
     }

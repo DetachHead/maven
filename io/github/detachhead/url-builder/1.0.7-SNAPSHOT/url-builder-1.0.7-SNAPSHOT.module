@@ -34,10 +34,10 @@
           "name": "url-builder-metadata-1.0.7-SNAPSHOT.jar",
           "url": "url-builder-1.0.7-SNAPSHOT.jar",
           "size": 4492,
-          "sha512": "07652dc6bd1a91b1ba2639f5d7b749da044771cdab634f62788cd1c5892494f1fd9522ff3d929e21b396674c7664b7259f544b75b1ea9a487f2ddf534a07e0e3",
-          "sha256": "11c9bb341bcc71bddaad38cfbcf5259d547ff2093e15102d0039be9198141823",
-          "sha1": "ec7dbbe3c5f677d9d43a654def43622565dae979",
-          "md5": "bdea04aeb0a0fd21d67cc3425ddf44f8"
+          "sha512": "77d6ae69890ebfc891ba05acd364b352767e145dbe2c7b92e0b0cbfbaca996057f94cc7ae6b557c046946585eb5a876a0d87770d1c86aba832bc0c08a63334f6",
+          "sha256": "ebdf0718ba746e69a3d29c15151f2b62ee17b1b9757e2c0fa009735da38ef76a",
+          "sha1": "c17d3834443fe0d88b004cd41f91e487933426a2",
+          "md5": "7fdfeeb4626c8536f6d1d751962ff6d3"
         }
       ]
     },
