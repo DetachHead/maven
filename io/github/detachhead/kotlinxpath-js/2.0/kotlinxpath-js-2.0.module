@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "xgy22fbf6nfc5p75ntlrl7ookm"
+      "buildId": "fpkywmy4rvbfdh6mqcywu52vpm"
     }
   },
   "variants": [
@@ -44,10 +44,10 @@
           "name": "kotlinxpath-js-2.0.jar",
           "url": "kotlinxpath-js-2.0.jar",
           "size": 91720,
-          "sha512": "ee7bc21b650521ff8708a7ae66c1a7adf64b291418d78ffb9b87be29538140fc7a17ad07b837f5dbe00b598f601510d6c20584d629b06f17611cf0ee10737d06",
-          "sha256": "2c8aec8a9172b4ba10e6051db2cdb31d49e8780dd0723a4071e4afec210634d0",
-          "sha1": "82ae91ffc9aba8d39bbb0359be980acad47f4c42",
-          "md5": "5d564f465899c38300ec00a5434e2f47"
+          "sha512": "6fe09721d2a7d8a47a99972c9d212a21a395b6b17a0051d1a13dff107bcb20f49329045ffc1f07187ae62e787691c671d40d61d53b4cdc23cf85dfe1c79b5c6f",
+          "sha256": "ed45636626fdf04f360b50521f25ece45b53d6dd5850b555358a47d55be2959a",
+          "sha1": "baa37c09a76cd52821e4f1d88c0b22c5c4996ddf",
+          "md5": "d752d512fb0f8f5beda4dfb88888a6f8"
         }
       ]
     },
@@ -79,10 +79,10 @@
           "name": "kotlinxpath-js-2.0.jar",
           "url": "kotlinxpath-js-2.0.jar",
           "size": 91720,
-          "sha512": "ee7bc21b650521ff8708a7ae66c1a7adf64b291418d78ffb9b87be29538140fc7a17ad07b837f5dbe00b598f601510d6c20584d629b06f17611cf0ee10737d06",
-          "sha256": "2c8aec8a9172b4ba10e6051db2cdb31d49e8780dd0723a4071e4afec210634d0",
-          "sha1": "82ae91ffc9aba8d39bbb0359be980acad47f4c42",
-          "md5": "5d564f465899c38300ec00a5434e2f47"
+          "sha512": "6fe09721d2a7d8a47a99972c9d212a21a395b6b17a0051d1a13dff107bcb20f49329045ffc1f07187ae62e787691c671d40d61d53b4cdc23cf85dfe1c79b5c6f",
+          "sha256": "ed45636626fdf04f360b50521f25ece45b53d6dd5850b555358a47d55be2959a",
+          "sha1": "baa37c09a76cd52821e4f1d88c0b22c5c4996ddf",
+          "md5": "d752d512fb0f8f5beda4dfb88888a6f8"
         }
       ]
     },

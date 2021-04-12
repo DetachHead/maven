@@ -12,7 +12,7 @@
   "createdBy": {
     "gradle": {
       "version": "6.5.1",
-      "buildId": "xgy22fbf6nfc5p75ntlrl7ookm"
+      "buildId": "fpkywmy4rvbfdh6mqcywu52vpm"
     }
   },
   "variants": [
@@ -36,10 +36,10 @@
           "name": "kotlinxpath-metadata-2.0.jar",
           "url": "kotlinxpath-metadata-2.0.jar",
           "size": 14629,
-          "sha512": "3d44cb742c5f24600a3a6b0105d039726e2b040a34d09efc4086b74d9152359f3507c46eb553d4d4d0243859e3004e0d42dd074b36b9f53349b24dc28d950605",
-          "sha256": "5f550d6e1a799052a118bcbca13991fea1075dc49f716ebbead5702aaf9b6d02",
-          "sha1": "2e1a3119d24b1e78a05c10c3d637cbac8f56d07f",
-          "md5": "8efc392f7fb2f4ebc62c1a3fed238dcd"
+          "sha512": "ff64783cfad35d00e8c83004a60baaf15c4b27bceaa82d2e0dc247cef5146580e4ff3652db79d2a29614090277afdb457cbb75ca5c5fb7e872d9483ba90be003",
+          "sha256": "2e23fa840fbfd6f1dfba15dbe2b2d19476ebf2254f7e471756e9f03f69b2b56f",
+          "sha1": "3e8f4d1594ef9bf271fced7b7275e0b17a6c4c32",
+          "md5": "719234251b1e28ba10621b30dda0730c"
         }
       ]
     }
