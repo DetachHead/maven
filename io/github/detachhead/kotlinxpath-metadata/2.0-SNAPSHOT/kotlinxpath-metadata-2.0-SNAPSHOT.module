@@ -1,0 +1,47 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../kotlinxpath/2.0-SNAPSHOT/kotlinxpath-2.0-SNAPSHOT.module",
+    "group": "io.github.detachhead",
+    "module": "kotlinxpath",
+    "version": "2.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5.1",
+      "buildId": "2isljhqe2zh2jf54q4szsxfqny"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlinxpath-metadata-2.0-SNAPSHOT.jar",
+          "url": "kotlinxpath-metadata-2.0-SNAPSHOT.jar",
+          "size": 14629,
+          "sha512": "c436e63fc2a991ac4db29cc3ad980aa24766df8b699fe6fef22491370407e967a4348661d9a71216fec285a20d9d3da4eae990053c015e4d800050049c8efda6",
+          "sha256": "126a9e7bf7a1d51f3ebeb1a6fac9737bdcba57a47f9dd2a626c9e4144ab06f26",
+          "sha1": "6290318c853a0c8ebe6f958fc68be06ef0908c39",
+          "md5": "ef6ec87661bbbd266aa715a521e157a6"
+        }
+      ]
+    }
+  ]
+}
