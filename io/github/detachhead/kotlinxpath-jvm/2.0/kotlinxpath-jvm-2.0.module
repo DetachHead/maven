@@ -1,0 +1,103 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../kotlinxpath/2.0/kotlinxpath-2.0.module",
+    "group": "io.github.detachhead",
+    "module": "kotlinxpath",
+    "version": "2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.5.1",
+      "buildId": "xgy22fbf6nfc5p75ntlrl7ookm"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvm-api",
+      "attributes": {
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlinxpath-jvm-2.0.jar",
+          "url": "kotlinxpath-jvm-2.0.jar",
+          "size": 62520,
+          "sha512": "b680c169bba1abb6f5343fbb2f277de8bc50ba37ebae1f087b6b107845115049f26267259414e68e86fee5da3112dbacbabd1ebe71fcfc0860b8e39036ef69b8",
+          "sha256": "e51f40dcf40dadc174bfdd6cb1622020ffd23d599a22a698200a85122b99a402",
+          "sha1": "a2fd1b0a3772159541517bf55df2d288d631d7f9",
+          "md5": "23ff70102baaad3ce4acff2b6de2c008"
+        }
+      ]
+    },
+    {
+      "name": "jvm-runtime",
+      "attributes": {
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.4.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "kotlinxpath-jvm-2.0.jar",
+          "url": "kotlinxpath-jvm-2.0.jar",
+          "size": 62520,
+          "sha512": "b680c169bba1abb6f5343fbb2f277de8bc50ba37ebae1f087b6b107845115049f26267259414e68e86fee5da3112dbacbabd1ebe71fcfc0860b8e39036ef69b8",
+          "sha256": "e51f40dcf40dadc174bfdd6cb1622020ffd23d599a22a698200a85122b99a402",
+          "sha1": "a2fd1b0a3772159541517bf55df2d288d631d7f9",
+          "md5": "23ff70102baaad3ce4acff2b6de2c008"
+        }
+      ]
+    },
+    {
+      "name": "metadata-api",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "available-at": {
+        "url": "../../kotlinxpath-metadata/2.0/kotlinxpath-metadata-2.0.module",
+        "group": "io.github.detachhead",
+        "module": "kotlinxpath-metadata",
+        "version": "2.0"
+      }
+    }
+  ]
+}
