@@ -3,12 +3,13 @@
   <groupId>io.github.detachhead</groupId>
   <artifactId>url-builder-jvm</artifactId>
   <versioning>
-    <latest>1.0.7</latest>
-    <release>1.0.7</release>
+    <latest>2.0.0-7604d25d2f87d05c8b1361638e0f9e6adf8808ea</latest>
+    <release>2.0.0-7604d25d2f87d05c8b1361638e0f9e6adf8808ea</release>
     <versions>
       <version>1.0.7-SNAPSHOT</version>
       <version>1.0.7</version>
+      <version>2.0.0-7604d25d2f87d05c8b1361638e0f9e6adf8808ea</version>
     </versions>
-    <lastUpdated>20210411124316</lastUpdated>
+    <lastUpdated>20230807113608</lastUpdated>
   </versioning>
 </metadata>
