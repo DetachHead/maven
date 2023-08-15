@@ -1,0 +1,89 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../url-builder/2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461/url-builder-2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461.module",
+    "group": "io.github.detachhead",
+    "module": "url-builder",
+    "version": "2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.0-RC"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.0-RC"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "url-builder-jvm-2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461.jar",
+          "url": "url-builder-jvm-2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461.jar",
+          "size": 30299,
+          "sha512": "e427db2d7f1b925c1e57179dfbc6f177ffa4035707379924d0eb6cce29a9827e1d7c8ff0853f42551a43c3443ff35cdf4ee5af33b3be268a4619b6a443681de3",
+          "sha256": "873cf974db3e99ae721034ffab806db5d885c6b2cf4cd51afa3127f3664fe82c",
+          "sha1": "eb745ba8f8d12f81b9433ec971630f9e552897ca",
+          "md5": "3488dfae4082c0ed950c7d0c97f385d9"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.0-RC"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.0-RC"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "url-builder-jvm-2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461.jar",
+          "url": "url-builder-jvm-2.0.0-b7e21b12ef94d3d5a0f6459cdbc660609f80f461.jar",
+          "size": 30299,
+          "sha512": "e427db2d7f1b925c1e57179dfbc6f177ffa4035707379924d0eb6cce29a9827e1d7c8ff0853f42551a43c3443ff35cdf4ee5af33b3be268a4619b6a443681de3",
+          "sha256": "873cf974db3e99ae721034ffab806db5d885c6b2cf4cd51afa3127f3664fe82c",
+          "sha1": "eb745ba8f8d12f81b9433ec971630f9e552897ca",
+          "md5": "3488dfae4082c0ed950c7d0c97f385d9"
+        }
+      ]
+    }
+  ]
+}
